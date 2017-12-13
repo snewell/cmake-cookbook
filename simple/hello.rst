@@ -111,3 +111,16 @@ easier to manage as projects become more complex.
         hello-world2.c
      )
   add_executable(hello2b ${hello2_srcs})
+
+
+Example Files
+-------------
+- `CMakeLists.txt`_ used for these examples
+- `hello.c`_ from our first example
+- `hello2.c`_, `hello2.h`_, and `hello-world2.c`_ from the second example
+
+.. _CMakeLists.txt: CMakeLists.txt
+.. _hello.c: hello.c
+.. _hello2.c: hello2.c
+.. _hello2.h: hello2.h
+.. _hello-world2.c: hello-world2.c
